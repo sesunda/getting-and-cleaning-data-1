@@ -1,4 +1,4 @@
-#read data
+#read dataset
 x<-read.table("test/X_test.txt")   
 y<-read.table("train/X_train.txt")
 
